@@ -22,4 +22,4 @@ Scale: https://gitlab.gnome.org/exalm/tab-overview
 Layout Morphing: https://gitlab.gnome.org/exalm/transition-thing
 
 ## Video
-The recording will be added here once it's available.
+There's no standalone video, but this is the stream recording [on Youtube](https://youtu.be/xHqkiSd1hQQ?t=11030).
